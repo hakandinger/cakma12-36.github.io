@@ -1,3 +1,4 @@
+
 function generateCalendar() {
   const calendar = [];
   const groups = ["08:00-20:00", "20:00-08:00", "İstirahat"];
